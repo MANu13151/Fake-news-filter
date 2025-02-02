@@ -2,6 +2,15 @@
 
 I Have created a model that will take news from dataset and will tell if the news is fake or true. This will ensure no rumours will spread 
 
+
+
+
+
+
+
+
+
+
 import pandas as pd
 import numpy as np
 import nltk
